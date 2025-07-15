@@ -16,4 +16,4 @@ description = "Binary memcached client"
 packages = [
     "mc_bin_client",
 ]
-include-package-data = false
+include-package-data = true
