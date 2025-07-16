@@ -8,3 +8,5 @@ setup(
     author_email='dustin@spy.net',
     packages=['mc_bin_client'],
 )
+
+#do smth
